@@ -1,0 +1,13 @@
+name: Case_Study_1_File_Upload
+title: Case_Study_1_File_Upload
+username:
+account: dawson-data-science
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2603447
+bundleId: 3423736
+url: https://dawson-data-science.shinyapps.io/Case_Study_1_File_Upload/
+when: 1595461734.37242
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: App.R|Budweiser Case Study 1.html|Budweiser Case Study 1.pptx|Budweiser Case Study 1.Rmd|_site/_site.yml
