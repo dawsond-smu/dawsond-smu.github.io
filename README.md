@@ -1,5 +1,6 @@
 # dawsond-smu.github.io      
 # Welcome to My Page   
+[SMU Data Science](https://blog.smu.edu/global/files/2020/01/Data-Science-@-SMU.png?raw=true)
 Website
 ## Outlining my interests, skills, and work.   
 ### Pages
