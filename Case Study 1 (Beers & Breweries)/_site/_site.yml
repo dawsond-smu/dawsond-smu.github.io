@@ -1,0 +1,8 @@
+name: "Simple"
+navbar:
+	title: "Simple"
+	left: 
+	- text: "Home"
+	 href: Index.html
+	- text: "Case Study 1"
+	 href: Budweiser Case Study 1.html
