@@ -1,0 +1,31 @@
+---
+title: "About Me"
+author: "Dawson"
+date: "7/21/2020"
+output: html_document
+---
+  
+```{r eval=FALSE, include=FALSE}
+pckgs = c("png","jpeg")
+install.packages(pckgs)
+library(png)
+library(jpeg)
+```
+  ![My Photo.](C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Images\MyPhoto.jpg)    
+  Christopher Dawson  
+  Home: Tampa-Bay, FL  
+  Interests:   
+    a) Blue Zones  
+    b) Tiny-Homes  
+    c) Fire-Starters  
+    d) Motorcycles  
+  Work: Centene Corporation (4 Years)  
+  Education: USF (Chemistry & Public Health) > SMU (Data Science Fall 2021)  
+
+![BLUE ZONES](C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Images\BlueZones.jpg)  
+![TINY HOMES](C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Images\TinyHome.jpg)     
+![FIRE](C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Images\FIRE.jpg)    ![USF.](C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Images\USF.jpg)   
+
+
+
+

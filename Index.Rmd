@@ -9,3 +9,7 @@ output: html_document
 ## R Markdown  
 ###  Outlined is the layout of this site.  
 
+1. About me
+2. Case Study 1
+
+
