@@ -1,8 +1,8 @@
 
 library("knitr")
 ---
-title: "DDS_Case_Study"
-author: "D. Dey & C. Dawson"
+title: "Budweiser Case Study"
+author: "Dawson"
 date: "6/27/2020"
 output: html_document
 ---
