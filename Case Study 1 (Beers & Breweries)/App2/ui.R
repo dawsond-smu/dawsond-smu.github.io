@@ -23,16 +23,10 @@ library(tidyr)
 library(ggpubr)
 library(data.table)
 
-#Beers = read.csv(file.choose(), header = TRUE)
-#Breweries = read.csv(file.choose(), header = TRUE)
-#Beers_Brewery = merge(Beers,Breweries, by.x = "Brewery_id", by.y = "Brew_ID")
-#Beers_Brewery_Omit = na.omit(Beers_Brewery)
-
-
 fluidPage(
   
   # App title ----
-  titlePanel("Please download 1. Beers Data 2. Breweries Data 3. Then select a Histogram"),
+  titlePanel("Please download & Upload 1. Beers Data 2. Breweries Data 3. Then select a Histogram"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
