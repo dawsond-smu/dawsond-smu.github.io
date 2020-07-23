@@ -32,7 +32,7 @@ library(data.table)
 fluidPage(
   
   # App title ----
-  titlePanel("Please select a Histogram"),
+  titlePanel("Please download 1. Beers Data 2. Breweries Data 3. Then select a Histogram"),
   
   # Sidebar layout with input and output definitions ----
   sidebarLayout(

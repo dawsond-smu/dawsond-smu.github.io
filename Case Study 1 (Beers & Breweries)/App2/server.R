@@ -23,6 +23,12 @@ library(tidyr)
 library(ggpubr)
 library(data.table)
 
+Beers = read.csv(file.choose(), header = TRUE)
+Breweries = read.csv(file.choose(), header = TRUE)
+Beers_Brewery = merge(Beers,Breweries, by.x = "Brewery_id", by.y = "Brew_ID")
+Beers_Brewery_Omit = na.omit(Beers_Brewery)
+
+
 function(input, output) {
   
   # Histogram of the Old Faithful Geyser Data ----

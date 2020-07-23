@@ -1,3 +1,5 @@
+library(rsconnect)
+rsconnect::deployApp('C:\Users\Dawson\Documents\GitHub\dawsond-smu.github.io\Simple Website\Case Study 1 (Beers & Breweries)\App.R')
 #App to explore Case Study 1
 library(data.table)
 library(DT)
@@ -118,7 +120,7 @@ server <- function(input, output) {
   # 2. Its output type is a plot
   output$distPlot <- renderPlot({
     
-    filtered_data<- reactive({
+    filtered_data <- reactive({
       dplyr::filter(Beers_Brewery_Omit, Beers_Brewery_Omit$State==input$StateFilter)
     })
     
